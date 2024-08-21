@@ -1,0 +1,63 @@
+# Archivos generados por compilación
+[Bb]in/
+[Oo]bj/
+
+# Configuración del entorno
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sln.ide
+
+# Paquetes NuGet
+*.nupkg
+*.snupkg
+*.nuget.props
+*.nuget.targets
+project.lock.json
+project.fragment.lock.json
+
+# Logs, Locks y Bases de Datos Locales
+*.log
+*.lock
+*.ldb
+
+# Archivos de configuración de servidor web
+.localhost
+
+# Archivos temporales del sistema operativo
+[Tt]humbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Archivos específicos de Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Configuración de entorno (local)
+.env
+
+# Configuración de depuración
+.vscode/
+launchSettings.json
+
+# Archivos generados por el Rider de JetBrains
+.idea/
+*.DotSettings.user
+.idea/
+*.sln.iml
+
+# Coverage files
+coverage/
+*.coverage
+*.coveragexml
+*.log
+*.result.xml
+*.sonarqube/
+TestResult.xml
+
+# Archivos específicos de Visual Studio
+.vs/
